@@ -6,9 +6,9 @@ This repository contains detailed information about various API protocols used f
 
 ## Protocols Covered
 
-1. [GraphQL](graphql.en.md)
-2. Webhooks
-3. REST
+1. [GraphQL](graphql.en.md.md)
+2. [Webhooks](webhooks.en.md.md)
+3. [REST](rest.en.md.md)
 4. Server-Sent Events (SSE)
 5. Electronic Data Interchange (EDI)
 6. Event-Driven Architecture (EDA)

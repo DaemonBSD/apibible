@@ -7,8 +7,8 @@ Este repositório contém informações detalhadas sobre diversos protocolos API
 ## Protocolos Abordados
 
 1. [GraphQL](graphql.md)
-2. Webhooks
-3. REST
+2. [Webhooks](webhooks.md)
+3. [REST](rest.md)
 4. Server-Sent Events (SSE)
 5. Electronic Data Interchange (EDI)
 6. Event-Driven Architecture (EDA)
