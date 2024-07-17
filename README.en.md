@@ -1,4 +1,4 @@
-![Logo](images/project_logo.jpeg)
+![Logo](images/logo_reduzida.jpg)
 
 # API Protocols Bible
 
