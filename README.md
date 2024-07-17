@@ -1,3 +1,5 @@
+![Logo](images/project_logo.jpeg)
+
 # Bíblia dos Protocolos API
 
 Este repositório contém informações detalhadas sobre diversos protocolos API utilizados para comunicação entre sistemas. Cada protocolo oferece soluções únicas para diferentes necessidades de comunicação e integração.
